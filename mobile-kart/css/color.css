@@ -1,0 +1,115 @@
+body {
+  background-image: url("bg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fin {
+  text-align: center;
+  border: 2px solid whitesmoke;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.rg {
+  text-align: center;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: whitesmoke;
+  text-shadow: 2px 3px 4px black;
+}
+
+.user {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: whitesmoke;
+  text-shadow: 2px 3px 4px black;
+}
+
+.email {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: whitesmoke;
+  text-shadow: 2px 3px 4px black;
+}
+
+.pass {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: whitesmoke;
+  text-shadow: 2px 3px 4px black;
+}
+
+.mobile {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: whitesmoke;
+  text-shadow: 2px 3px 4px black;
+}
+
+.text1 {
+  margin-top: 15px;
+  width: 200px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: transparent;
+}
+
+.text2 {
+  margin-top: 15px;
+  width: 200px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: transparent;
+}
+
+.text3 {
+  margin-top: 15px;
+  width: 200px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: transparent;
+}
+
+.text4 {
+  margin-top: 15px;
+  width: 200px;
+  padding: 10px;
+  outline: none;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: transparent;
+}
+
+.but {
+  padding: 10px;
+  width: 100px;
+  background-color: salmon;
+  border: 1px black;
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+.lobt {
+  padding: 10px;
+  width: 100px;
+  background-color: salmon;
+  border: 1px black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+a {
+  color: black;
+}
